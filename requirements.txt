@@ -1,0 +1,5 @@
+fire
+langchain-core
+langchain-community
+python-dotenv
+langchain
